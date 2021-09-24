@@ -27,3 +27,11 @@ Summary and cheat sheet of git commands, and practice Branching
 `git branch newBranch` - create local branch `newBranch`
 
 `git checkout newBranch` - go to branch
+
+### Remote commands
+
+* `git remote add origin someRemoteRepoUrl` - link local repo with remote `someRemoteRepoUrl`
+
+* `git push origin main` - push local commits to remote branch Informational
+
+* `git push origin branchName` - push to remote branch `branchName`
