@@ -2,6 +2,8 @@
 
 Summary and cheat sheet of git commands, and practice Branching
 
+Text added in main branch. Blah Blah Blah.
+
 ### Basic commands
 
 * `git init` - initialize a local git repo in current folder
