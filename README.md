@@ -1,5 +1,7 @@
 ## Git Branching Practice and Cheat Sheet
 
+Summary and cheat sheet of git commands, and practice Branching
+
 ### Basic commands
 
 * `git init` - initialize a local git repo in current folder
@@ -17,7 +19,7 @@
 
 * `git log --oneline` - compact commit history
 
-### Branching
+### Branching commands
 `git branch` - list local braches, shows which branch we are on
 
 `git branch -M branchName` - rename current branch to `branchName`
